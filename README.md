@@ -13,7 +13,7 @@ npm install -g newman
 
 ## Setup Instructions
 1)Clone the repository:
-git clone https://github.com/your-username/repo-name.git
+git clone https://github.com/Mdeliaskhan04/Practice-API-Testing.git
 cd repo-name
 
 2)Install the Newman HTML reporter:
