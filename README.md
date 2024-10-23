@@ -1,7 +1,3 @@
-First API testing using Postman and generate HTML report with Newman Integration
-#######
-Here's a template for a README.md file for API testing using Postman and Newman. You can adjust it based on your project details:
-
 # API Testing with Postman & Newman
 
 This repository contains a collection of API tests using Postman and automated via Newman. The purpose of this project is to automate API testing and generate comprehensive reports that can be integrated into CI/CD pipelines.
